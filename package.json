@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pixeloon/expresscalculator/issues"
   },
-  "homepage": "https://github.com/pixeloon/expresscalculator#readme"
+  "homepage": "https://github.com/pixeloon/expresscalculator#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
